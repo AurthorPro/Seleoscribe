@@ -1,4 +1,4 @@
-# Luminal — Cosmic Journal
+# Seleoscribe — Cosmic Journal
 
 A local-first cosmic journaling PWA. Journal guided by moon phases, planetary transits, and your birth chart.
 
